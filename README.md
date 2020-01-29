@@ -30,8 +30,16 @@
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Embedded-Systems-Books/blob/master/ekn(16).pdf" style="text-decoration:none;">Embedded Flash Memory for Embedded Systems: Technology, Design for Sub-systems, and Innovations</a></b></li>
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Embedded-Systems-Books/blob/master/ekn(17).pdf" style="text-decoration:none;">Computer as Components: Principles of Embedded Computing System Design</a></b></li>
    
- 
- 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Embedded-Systems-Books/blob/master/ekn(18).pdf" style="text-decoration:none;">Embedded Systems Design with Special Arithmetic and Number Systems</a></b></li>
+   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Embedded-Systems-Books/blob/master/ekn(19).pdf" style="text-decoration:none;">Pro Linux Embedded Systems</a></b></li>
+  
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Embedded-Systems-Books/blob/master/ekn(20).pdf" style="text-decoration:none;">Making Embedded Systems</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Embedded-Systems-Books/blob/master/ekn(21).pdf" style="text-decoration:none;">Real-Time Embedded Systems</a></b></li>
+   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Embedded-Systems-Books/blob/master/ekn(22).pdf" style="text-decoration:none;">Electronics for Embedded Systems</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Embedded-Systems-Books/blob/master/ekn(23).pdf" style="text-decoration:none;">Building Embedded Linux Systems</a></b></li>
  
  
  
